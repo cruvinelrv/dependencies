@@ -12,15 +12,15 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  firebase_core: ^1.0.1 #Recursos básicos
-  cloud_firestore: ^1.0.1 #Banco de dados
-  firebase_storage: ^8.0.0 #Armazenamento de arquivos
-  firebase_auth: ^1.0.1 #Autenticação de usuário
+  #firebase_core: ^1.0.1 #Recursos básicos
+  #cloud_firestore: ^1.0.1 #Banco de dados
+  #firebase_storage: ^8.0.0 #Armazenamento de arquivos
+  #firebase_auth: ^1.0.1 #Autenticação de usuário
   provider: ^6.0.0 # injeção de dependencias
   flutter_modular: ^4.0.1 # injeção de dependência e rotas
-  brasil_fields: ^1.2.0 #package para formatação de campos padrão brasileiro
-  mobx: ^2.0.5
-  flutter_mobx: ^2.0.2  
+  #brasil_fields: ^1.2.0 #package para formatação de campos padrão brasileiro
+  #mobx: ^2.0.5
+  #flutter_mobx: ^2.0.2  
 
   
 dev_dependencies:
