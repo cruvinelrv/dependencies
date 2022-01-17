@@ -2,6 +2,7 @@ name: dependencies
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
+publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -19,7 +20,8 @@ dependencies:
   flutter_modular: ^4.0.1 # injeção de dependência e rotas
   brasil_fields: ^1.2.0 #package para formatação de campos padrão brasileiro
   mobx: ^2.0.5
-  flutter_mobx: ^2.0.2
+  flutter_mobx: ^2.0.2  
+
   
 dev_dependencies:
   mobx_codegen: ^2.0.4
