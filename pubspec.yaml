@@ -18,6 +18,9 @@ dependencies:
   #firebase_auth: ^1.0.1 #Autenticação de usuário
   provider: ^6.0.0 # injeção de dependencias
   flutter_modular: ^4.0.1 # injeção de dependência e rotas
+  camera: ^0.9.4+5 # acessar câmera
+  flutter_bloc: ^7.3.1 # implementação de bloc
+  equatable: ^1.2.5 
   #brasil_fields: ^1.2.0 #package para formatação de campos padrão brasileiro
   #mobx: ^2.0.5
   #flutter_mobx: ^2.0.2  
@@ -29,6 +32,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
